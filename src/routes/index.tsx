@@ -225,9 +225,9 @@ export default component$(() => {
 					</div>
 				</a>
 			</div>
-			<div>
+			{/* <div>
 				<img src="/toro.png" class="w-16 mx-auto" alt="" />
-			</div>
+			</div> */}
 		</div>
 	);
 });
