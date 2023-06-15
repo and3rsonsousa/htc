@@ -24,7 +24,7 @@ export default component$(() => {
 					<div>Agende sua consulta</div>
 				</a>
 
-				<a href="https://wa.me/88997161113" class="link">
+				<a href="https://wa.me/5588997161113" class="link">
 					<div>
 						<svg
 							viewBox="0 0 400 400"
