@@ -224,6 +224,39 @@ export default component$(() => {
 						</div>
 					</div>
 				</a>
+				<a href="https://wa.me/5588988681568" class="link">
+					<svg
+						viewBox="0 0 24 24"
+						class="w-8 h-8 mx-2 stroke-brand-3 stroke-[1.6px]"
+						xmlns="http://www.w3.org/2000/svg"
+						fill="none"
+					>
+						<g id="microscope">
+							<line x1="6.75" y1="22.5" x2="19.16" y2="22.5" />
+
+							<path d="M6.92,17.73a6.2,6.2,0,1,0,8.75-7" />
+
+							<path
+								d="M12.16,6.24h1.58a1.91,1.91,0,0,1,1.91,1.91V13a0,0,0,0,1,0,0h-5.4a0,0,0,0,1,0,0V8.15a1.91,1.91,0,0,1,1.91-1.91Z"
+								transform="translate(10.59 -6.34) rotate(45)"
+							/>
+
+							<rect
+								x="15.32"
+								y="3.19"
+								width="3.37"
+								height="4.72"
+								transform="translate(8.91 -10.4) rotate(45)"
+							/>
+
+							<line x1="16.3" y1="1.5" x2="21.07" y2="6.27" />
+
+							<line x1="2.93" y1="17.73" x2="11.52" y2="17.73" />
+						</g>
+					</svg>
+
+					<div class="mr-2">Laboratório Edgar Corrêa</div>
+				</a>
 			</div>
 			{/* <div>
 				<img src="/toro.png" class="w-16 mx-auto" alt="" />
