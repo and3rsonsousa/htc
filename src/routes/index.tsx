@@ -8,7 +8,7 @@ export default component$(() => {
 				<img src="/logo.png" class="mx-auto h-32" alt="" />
 			</div>
 			<div class="links">
-				<a href="https://wa.me/588998551739" class="link link-primary">
+				<a href="https://wa.me/5588998551739" class="link link-primary">
 					<svg
 						class="w-8 h-8 fill-brand-2 mx-2"
 						viewBox="0 0 24 24"
