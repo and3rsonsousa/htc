@@ -266,11 +266,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-	title: "Toro burger and Beer",
+	title: "HTC - Hospital Dr. Thomaz Corrêa",
 	meta: [
 		{
 			name: "description",
-			content: "Faça seu pedido pelo nosso WhatsApp",
+			content: "O HTC é sempre com você",
 		},
 	],
 };
